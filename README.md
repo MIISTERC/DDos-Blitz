@@ -17,10 +17,11 @@ Python3
 Colorama
 
 # Installation (Linux or Debian)
-''' git clone https://github.com/MIISTERC/DDos-Blitz
+```
+ git clone https://github.com/MIISTERC/DDos-Blitz
 
 cd DDos-Blitz
 
 ./setup.sh
-'''
+```
 
