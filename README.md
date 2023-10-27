@@ -8,6 +8,11 @@ The developer is not responsible for any kind of illegal activity done with this
 1.Multi threading
 
 2.Uses fake ip.
+# Appearance
+
+
+https://github.com/MIISTERC/DDos-Blitz/assets/130668957/7699bc7d-241d-4e9f-b5c5-7a33d2cb3841
+
 
 # Requirements
 Python3
