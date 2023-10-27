@@ -5,3 +5,12 @@ The developer is not responsible for any kind of illegal activity done with this
 # What is DDos?
 [What is Dos and DDos attack?](https://en.m.wikipedia.org/wiki/Denial-of-service_attack)
 ## Features 
+1.Multi threading
+2. Uses fake ip.
+
+# Requirements
+Python3
+Colorama
+
+# Installation (Linux or Debian)
+'''
