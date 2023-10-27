@@ -7,8 +7,7 @@ The developer is not responsible for any kind of illegal activity done with this
 ## Features 
 1.Multi threading
 
-
-2. Uses fake ip.
+2.Uses fake ip.
 
 # Requirements
 Python3
@@ -18,7 +17,7 @@ Colorama
 
 # Installation (Linux or Debian)
 ```
- git clone https://github.com/MIISTERC/DDos-Blitz
+git clone https://github.com/MIISTERC/DDos-Blitz
 
 cd DDos-Blitz
 
