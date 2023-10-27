@@ -3,4 +3,5 @@
 # Disclaimer
 The developer is not responsible for any kind of illegal activity done with this script, it basically represents how ddos attacks works and it is made for educational purposes only.
 # What is DDos?
-['What is Dos and DDos attack?](https://en.m.wikipedia.org/wiki/Denial-of-service_attack)
+[What is Dos and DDos attack?](https://en.m.wikipedia.org/wiki/Denial-of-service_attack)
+## Features 
