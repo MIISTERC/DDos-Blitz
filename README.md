@@ -13,6 +13,8 @@ The developer is not responsible for any kind of illegal activity done with this
 
 https://github.com/MIISTERC/DDos-Blitz/assets/130668957/7699bc7d-241d-4e9f-b5c5-7a33d2cb3841
 
+## Eventually DDos a website.
+![IMG_20231027_195214](https://github.com/MIISTERC/DDos-Blitz/assets/130668957/5902961f-15ff-4caa-8b01-366d4b015ea6)
 
 # Requirements
 Python3
