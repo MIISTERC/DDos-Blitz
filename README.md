@@ -28,6 +28,6 @@ git clone https://github.com/MIISTERC/DDos-Blitz
 
 cd DDos-Blitz
 
-./setup.sh
+bash setup.sh
 ```
 
